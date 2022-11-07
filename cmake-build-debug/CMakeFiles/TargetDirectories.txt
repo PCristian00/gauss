@@ -1,0 +1,3 @@
+C:/Users/Thinkpad User/CLionProjects/gauss/cmake-build-debug/CMakeFiles/gauss.dir
+C:/Users/Thinkpad User/CLionProjects/gauss/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thinkpad User/CLionProjects/gauss/cmake-build-debug/CMakeFiles/rebuild_cache.dir
