@@ -18,6 +18,7 @@ int main() {
             cin>>m[i][j];
         }
         */
+    cout << "Matrice di partenza" << endl;
     /* Stampa matrice m
     for (int i=0;i<3;i++){
         for(int j=0;j<3;j++)
@@ -32,7 +33,15 @@ int main() {
         cout<<endl;
     }
 
+    int cs=0;
     // Scelta della prima colonna non nulla
+    cout << "Scelgo la prima colonna non nulla" << endl;
+    for(int i=0;i<2;i++)
+        for(int j=0;j<3;j++)
+            if(m[i][j]!=0){
+                cs=j;
+                cout<<cs;
+            }
 
 
     return 0;
